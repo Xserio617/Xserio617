@@ -69,7 +69,7 @@
 * **Frontend:** Developed with React, Vite, and TypeScript, featuring interactive elements like Leaflet maps and Swiper carousels.
 * **Deployment & CI/CD:** Fully containerized with **Docker**, using GitHub Actions for automated Android and Desktop build workflows.
 
-**MSRN (Healthcare Appointment System)** A comprehensive, full-stack appointment management system with an event-driven architecture. 
+**MHRS (Healthcare Appointment System)** A comprehensive, full-stack appointment management system with an event-driven architecture. 
 * **Architecture:** Implements CQRS pattern and robust UID strategies for security.
 * **Backend:** Powered by FastAPI, SQLAlchemy, and MariaDB.
 * **Search & Events:** Utilizes Elasticsearch for rapid doctor/slot lookups and RabbitMQ for asynchronous event processing.
