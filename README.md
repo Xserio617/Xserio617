@@ -17,6 +17,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 </p>
 
@@ -24,6 +25,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339939?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 </p>
@@ -32,14 +34,15 @@
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white" />
   <img src="https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
 </p>
 
 **Databases, Search & Event Streaming**
 <p align="left">
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
@@ -49,9 +52,10 @@
 **DevOps, Infrastructure & AI**
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Generative_AI-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" />
   <img src="https://img.shields.io/badge/HuggingFace-F9AB00?style=for-the-badge&logo=huggingface&logoColor=white" />
 </p>
 
@@ -59,23 +63,24 @@
 
 ### Featured Projects
 
-**MSRN (Healthcare Appointment System)**
-A comprehensive, full-stack appointment management system with an event-driven architecture. 
+**Flux-Shop (E-commerce Ecosystem)** A full-featured e-commerce platform integrated with financial and AI services.
+* **Backend:** Built with Django and DRF, utilizing PostgreSQL and JWT authentication.
+* **Integrations:** Seamlessly integrated with **Iyzipay** for payments and **Google Generative AI** for enhanced user experiences.
+* **Frontend:** Developed with React, Vite, and TypeScript, featuring interactive elements like Leaflet maps and Swiper carousels.
+* **Deployment & CI/CD:** Fully containerized with **Docker**, using GitHub Actions for automated Android and Desktop build workflows.
+
+**MSRN (Healthcare Appointment System)** A comprehensive, full-stack appointment management system with an event-driven architecture. 
 * **Architecture:** Implements CQRS pattern and robust UID strategies for security.
 * **Backend:** Powered by FastAPI, SQLAlchemy, and MariaDB.
-* **Search & Events:** Utilizes Elasticsearch for rapid doctor/slot lookups and RabbitMQ for asynchronous event processing (notifications and ES synchronization).
-* **Frontend:** Built with Next.js (App Router), React, and TypeScript.
+* **Search & Events:** Utilizes Elasticsearch for rapid doctor/slot lookups and RabbitMQ for asynchronous event processing.
 
-**Music DL GUI (Web & Mobile)**
-A cross-platform media manager and downloading application.
-* **Core Features:** Browsing Navidrome libraries, YouTube searching, and automated track/album downloading using yt-dlp and FFmpeg.
-* **Stack:** Frontend built with React and Vite, Backend handled by Express.
-* **Mobile Integration:** Packaged natively for Android using Capacitor.
+**Music DL GUI (Web & Mobile)** A cross-platform media manager and downloading application.
+* **Stack:** React/Vite frontend with an Express backend, packaged for Android via **Capacitor**.
+* **Automation:** Automated track and album processing using yt-dlp and FFmpeg.
 
-**AI-Powered Desktop Client**
-A local desktop application integrating advanced language models.
-* **Stack:** Built with Python and PyQt6 for a native desktop GUI.
-* **AI Integration:** Utilizes the Magnum model sourced from Hugging Face for complex AI processing and interactions.
+**AI-Powered Desktop Client** A local desktop application integrating advanced language models.
+* **Stack:** Python and PyQt6 for a native desktop GUI.
+* **AI Integration:** High-performance processing using the Magnum model from Hugging Face.
 
 <hr>
 
