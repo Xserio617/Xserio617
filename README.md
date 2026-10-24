@@ -148,11 +148,13 @@
 ### Game Development and Modding
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Minecraft_Forge-62B47A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NeoForge-62B47A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Universal_Render_Pipeline-4B5563?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
   <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" />
   <img src="https://img.shields.io/badge/Rojo-00A2FF?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/Minecraft_Forge-62B47A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NeoForge-62B47A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white" />
   <img src="https://img.shields.io/badge/Blockbench-1F2937?style=for-the-badge" />
   <img src="https://img.shields.io/badge/GLSL_Shaders-5586A4?style=for-the-badge&logo=opengl&logoColor=white" />
@@ -299,10 +301,12 @@ NoteDefteri, a note taking app on Kotlin with classic XML layouts and data bindi
   <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
 </p>
 
-**Godot and Roblox Projects**<br>
-Three Godot 4 game projects with GDScript systems, scene composition and shader work, plus Roblox development with typed Luau modules synchronized through Rojo.
+**Unity, Godot and Roblox Projects**<br>
+Unity 6 project on the Universal Render Pipeline in 2D, wired with the Input System package and a scene, renderer and settings layout prepared for gameplay work. Three Godot 4 game projects with GDScript systems, scene composition and shader work, plus Roblox development with typed Luau modules synchronized through Rojo.
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Universal_Render_Pipeline-4B5563?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
   <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
   <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" />
